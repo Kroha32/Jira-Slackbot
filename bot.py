@@ -101,13 +101,13 @@ if client.rtm_connect():
                        text='back to jira')
                   except:
                     print('cannot connect to jira-test')
-                #здесь начинаются команды в одно слово, которые просто отвечают на запрос ссылкой на полезный ресурс, который вы тут укажите
+                #здесь начинаются команды в одно слово
                 if command.split(' ')[0] in one_word_commands:
                     #сюда можно добавить команду
                     if command.split(' ')[0]=='strategy':
                       client.api_call('chat.postMessage',
                       channel=channel_id,
-                      text='https://localhost.com/example-url',
+                      text='https://wiki.alfastrah.ru/pages/viewpage.action?pageId=38798426',
                       thread_ts=thread_ts,
                       icon_emoji=':+1:',
                       username='this is your strategy__bot'
@@ -115,7 +115,7 @@ if client.rtm_connect():
                     if command.split(' ')[0]=='library':
                       client.api_call('chat.postMessage',
                       channel=channel_id,
-                      text='>You can get books from 2 sources:\n>k:\Library\n>https://localhost.com/example-url',
+                      text='>You can get books from 2 sources:\n>k:\Library\n>https://wiki.alfastrah.ru/pages/viewpage.action?pageId=63537531',
                       thread_ts=thread_ts,
                       icon_emoji=':+1:',
                       username='this is your library__bot'
@@ -123,7 +123,7 @@ if client.rtm_connect():
                     if command.split(' ')[0]=='agile':
                       client.api_call('chat.postMessage',
                       channel=channel_id,
-                      text='https://localhost.com/example-url',
+                      text='https://wiki.alfastrah.ru/pages/viewpage.action?pageId=53044196',
                       thread_ts=thread_ts,
                       icon_emoji=':+1:',
                       username='this is your agile__bot'
