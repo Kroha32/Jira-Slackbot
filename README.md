@@ -18,7 +18,7 @@
 
 Бот "alfabot" позволяет, не выходя из Slack'а, проверить назначенные Вам задачи, написать или посмотреть комментарии в Jira.
 
-![схема2](https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/bot2_Vlad_.png "Схема2")
+![схема2](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/bot2(Vlad).png "Схема2")
 
 #### Что умеет?
 
@@ -34,7 +34,7 @@
 * __agile__ - ссылка на базовый тренинг по Scrum для членов команды разработчиков
 * __customize__ -
 
-![схема1](https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/bot_Vlad_.png "Схема1")
+![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/bot(Vlad).png "Схема1")
 
 #### Что нужно для того чтобы начать пользоваться "alfabot"
 
@@ -76,13 +76,13 @@
     <slack_token ="xoxb-******...">
 
 Для того чтобы добавить новую команду, вам нужно найти этот фрагмент кода и написать её название:
-![схема1](https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/объяснение.png "Одно словные команды")
+![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/объяснение.png "Одно словные команды")
 
 Далее вы создаёте функцию для вашей новой команды (посредством нового _if_), если она однословная:
-![схема1](https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/Описание2.png "Описание")
+![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/Описание2.png "Описание")
 
 И здесь если состоит из нескольких ключей:
-![схема1](https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/два.png "Схема1")
+![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/два.png "Схема1")
 
 
 #### ___Благодарности___
