@@ -1,6 +1,6 @@
 # Alfabot
 
-![Картиночка](https://https://github.com/Kroha32/Jira-Slackbot/blob/master/images/Смайл2.png "Аватар")
+![Картиночка](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/Смайл2.png "Аватар")
 
 [схема]:https://gitlab-test.alfastrah.ru/rosnou/jirabot/raw/master/images/bot_Vlad_.png
 Это бот "alfabot" для удобного информирования альфанаселения в Slack'е.
