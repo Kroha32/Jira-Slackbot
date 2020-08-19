@@ -79,7 +79,7 @@
 ![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/объяснение.png "Одно словные команды")
 
 Далее вы создаёте функцию для вашей новой команды (посредством нового _if_), если она однословная:
-![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/Описание.png "Описание")
+![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/описание.PNG "Описание")
 
 И здесь если состоит из нескольких ключей:
 ![схема1](https://github.com/Kroha32/Jira-Slackbot/blob/master/images/два.png "Схема1")
